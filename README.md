@@ -7,7 +7,6 @@ A simple GUI application built with Python and Tkinter to download YouTube video
 - Downloads YouTube videos in the highest available resolution
 - Displays video title and view count
 - Error handling with clear status messages
-- Packaged as a standalone executable for Ubuntu
 
 ## Prerequisites
 - **Python 3**: Required to run the script or build the app.
