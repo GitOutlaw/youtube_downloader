@@ -1,6 +1,6 @@
 # YouTube Downloader
 
-A simple GUI application built with Python and Tkinter to download YouTube videos in their highest resolution using the `pytubefix` library. This app is designed to be lightweight, cross-platform, and easy to use, with a focus on Ubuntu integration.
+A simple GUI application built with Python and Tkinter to download YouTube videos in their highest resolution using the `pytubefix` library. This app is designed to be lightweight, cross-platform, and easy to use, with a  future focus on Ubuntu app and or Windows integration.
 
 ## Features
 - User-friendly graphical interface
