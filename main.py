@@ -6,7 +6,7 @@ from pytubefix import YouTube
 root = tk.Tk()
 root.title("YouTube Downloader")  # set window title
 # set window size (increased height for the browse button)
-root.geometry("400x350")
+root.geometry("400x375")
 
 # global variable to store the download path
 download_path = ""
