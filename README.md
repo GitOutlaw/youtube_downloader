@@ -1,4 +1,4 @@
-# <span style="color: var(--vscode-markdown-wysH1); font-size: 1.6rem;">YouTube Fetcher</span>
+# <span class="colour" style="color:var(--vscode-markdown-wysH1)"><span class="size" style="font-size:1.6rem">YouTube Fetcher</span></span>
 
 A simple GUI-based YouTube video download tool using **Tkinter** and **Pytube**.
 <br>
@@ -24,7 +24,7 @@ pip install pytubefix
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/GitOutlaw/youtube_fetcher
 ```
 
 2. Navigate to the project directory:
